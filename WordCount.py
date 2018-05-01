@@ -1,3 +1,6 @@
+'''Write a Python program using function concept that maps list of words into a list of integers
+representing the lengths of the corresponding words.'''
+
 #declare and initialize list of words
 list1=["SunilKumar", "Rajesh", "Ramu", "Shyam"]
 
